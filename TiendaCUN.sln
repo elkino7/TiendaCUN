@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaCUN.UI", "TiendaCUN.UI\TiendaCUN.UI.csproj", "{0AA961AD-1F0F-4D0B-8DC1-9D77C7A7908C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaCUN.APP", "TiendaCUN.APP\TiendaCUN.APP.csproj", "{461CFF11-0D3D-47E1-86B6-D95CDDD7353C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0AA961AD-1F0F-4D0B-8DC1-9D77C7A7908C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA961AD-1F0F-4D0B-8DC1-9D77C7A7908C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA961AD-1F0F-4D0B-8DC1-9D77C7A7908C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461CFF11-0D3D-47E1-86B6-D95CDDD7353C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461CFF11-0D3D-47E1-86B6-D95CDDD7353C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461CFF11-0D3D-47E1-86B6-D95CDDD7353C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461CFF11-0D3D-47E1-86B6-D95CDDD7353C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
